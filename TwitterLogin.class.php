@@ -1,7 +1,7 @@
 <?php
 
 
-class TL {
+class TwitterLogin {
 	public static $user = null;
 	private static $conf = array();
 	public static function conf ($key, $val = null) {
