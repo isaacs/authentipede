@@ -1,0 +1,19 @@
+<?php
+
+/**
+ * Get the API key and secret from http://facebook.com/developers
+ *
+ * Set the callback URL in your developer app to match the one you want the
+ * user to hit after logging in.
+ * 
+ * Then rename this file to "config.php".
+ */
+define('FB_API_KEY', 'MY_FACEBOOK_API_KEY');
+define('FB_API_SECRET', 'MY_FACEBOOK_API_SECRET');
+
+// This is the root of the facebook site you'll be hitting.
+// In production, this will be facebook.com
+define('FB_BASE_URL', 'connect.facebook.com');
+
+
+
