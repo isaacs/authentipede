@@ -32,9 +32,10 @@ class TwitterLogin {
 		$cred = json_decode(`curl "$cred" 2>/dev/null`);
 		return (
 			$cred &&
-			is_object($cred) &&
-			property_exists($cred, 'authorized') &&
-			$cred->authorized
+			is_object($cred) && (
+				property_exists($cred, 'authorized') && $cred->authorized ||
+				property_exists($cred, 'screen_name') && $cred->screen_name === $u
+			)
 		);
 	}
 	public static function userLogin ($u, $p) {
