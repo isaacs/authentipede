@@ -1,0 +1,74 @@
+Yahoo! Social API PHP SDK License
+
+Copyright 2008 Yahoo! Inc.
+
+Yahoo! grants to You a limited, non-exclusive, non- assignable,
+non-transferable, non-sublicensable, royalty- free license to access to use
+and modify the Yahoo! Social API PHP SDK License ("Software"), solely as
+necessary for the purpose of creating an Application to run on the Yahoo!
+Application Platform using the OAuth authentication standard as implemented by
+Yahoo!, and as described in this license and in the Yahoo! Application
+Platform TOU, which are incorporated herein by reference. You may not sell,
+resell, redistribute, sublicense, or transfer all or any portion of the
+Software. Except for the license expressly granted under copyright hereunder,
+no rights, licenses or forbearances are granted or may arise in relation to
+this license whether expressly, by implication, exhaustion, estoppel or
+otherwise. All rights, including all intellectual property rights, that are
+not expressly granted under this license are hereby reserved by Yahoo!.
+
+You must retain and reproduce any and all Yahoo! copyright or other notices
+that are included in the Software in the same form as they appear in the
+Software.
+
+This license shall terminate automatically if you violate it terms.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL YAHOO!
+OR ITS SUPPLIERS OR LICENSORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+This Agreement will be interpreted and construed in accordance with the laws
+of the State of California and the United States of America, without regard to
+conflict of law principles. The U.N. Convention on Contracts for the
+International Sale of Goods shall not apply to this Agreement. All disputes
+arising out of this Agreement involving Yahoo! or any of its subsidiaries
+shall be subject to the jurisdiction of the federal or state courts of
+northern California, with venue lying in Santa Clara County, California. Any
+waiver of the provisions of this Agreement or of a party's rights or remedies
+under this Agreement must be in writing to be effective. Failure, neglect or
+delay by a party to enforce the provisions of this Agreement or its rights or
+remedies at any time, will not be construed or be deemed to be a waiver of
+such party's rights under this Agreement and will not in any way affect the
+validity of the whole or any part of this Agreement or prejudice such party's
+right to take subsequent action.
+
+This also code contains software from the following sources -
+
+MIT License - for PHP OAuth Library
+
+Copyright © 2007 Andy Smith
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+BSD License - for JSON encoder and decoder
+
+Copyright © 2008 Michal Migurski

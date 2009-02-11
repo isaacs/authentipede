@@ -1,0 +1,16 @@
+<?php
+
+
+// Make sure you obtain application keys before continuing by visiting:
+//
+// http://developer.yahoo.com/dashboard/
+
+// Your consumer key goes here.
+$consumerKey = "";
+
+// Your consumer key secret goes here.
+$consumerKeySecret = "";
+
+// Your application ID goes here.
+$applicationId = "";
+
