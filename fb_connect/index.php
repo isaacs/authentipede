@@ -39,7 +39,6 @@ Storable for 24 hours:
 	profile_url
 */
 
-
 var_dump($f->api_client->users_getStandardInfo($user, array(
 	'name',
 	'first_name',
@@ -92,3 +91,5 @@ var_dump($f->api_client->users_getInfo($user, array(
 	'wall_count',
 	'work_history'
 )));
+
+var_dump($f->api_client->friends_get());
